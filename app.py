@@ -1,22 +1,12 @@
-import streamlit as st
+print("Welcome to ExamPrep AI 2026")
 
-st.set_page_config(
-    page_title="ExamPrep AI",
-    page_icon="📚"
-)
+notes = """
+Artificial Intelligence is a branch of computer science.
+It helps machines learn and solve problems.
+"""
 
-st.title("📚 ExamPrep AI")
-st.subheader("AI-Powered Study Assistant")
+print("Summary:")
+print(notes[:100])
 
-notes = st.text_area(
-    "Paste your notes here"
-)
-
-if st.button("Generate Summary"):
-    st.success("Summary feature coming soon!")
-
-if st.button("Generate Quiz"):
-    st.success("Quiz feature coming soon!")
-
-if st.button("Ask Question"):
-    st.success("Question Answer feature coming soon!")
+question = input("Ask a question: ")
+print("Answer:", question)
