@@ -1,2 +1,8 @@
 def generate_quiz():
-    return "Quiz Generator Ready"
+    return [
+        {
+            "question": "What is AI?",
+            "options": ["Artificial Intelligence", "Automatic Input"],
+            "answer": "Artificial Intelligence"
+        }
+    ]
