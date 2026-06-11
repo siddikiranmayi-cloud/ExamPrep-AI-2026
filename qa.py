@@ -1,2 +1,2 @@
-def ask_question():
-    print("Question Answer System Ready")
+def answer_question(question):
+    return "This feature will answer questions from uploaded notes."
