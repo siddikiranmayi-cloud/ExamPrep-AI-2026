@@ -1,4 +1,15 @@
 # ExamPrep-AI-2026
+## Demo
+
+This project can:
+- Generate summaries
+- Create quizzes
+- Answer questions from study notes
+
+## Technologies Used
+- Python
+- Streamlit
+- OpenAI API
 
 ## Overview
 ExamPrep AI is an AI-powered study assistant designed for engineering students.
