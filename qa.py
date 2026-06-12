@@ -1,2 +1,2 @@
 def answer_question(question):
-    return "This feature will answer questions from uploaded notes."
+    return f"ExamPrep AI response: {question}"
