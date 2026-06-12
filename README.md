@@ -51,6 +51,12 @@ Future versions will use Azure AI Foundry Knowledge Retrieval for educational co
 Demo video will be added before final submission.
 https://youtube.com/shorts/HzJYgBeZ-Ms?si=V7hxiYqgUaaBhJuI
 
+## Screenshots
+
+-Home page
+-Quiz Generation 
+-Summary Generation 
+
 ## Future Improvements
 
 Microsoft Foundry IQ integration
