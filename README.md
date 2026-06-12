@@ -35,14 +35,16 @@ requirements.txt - Project dependencies
 
 README.md - Project documentation
 
-## Microsoft Foundry IQ Integration
+## Microsoft Foundry IQ Roadmap
 
-This project is being developed to integrate with Microsoft Foundry IQ for:
+This project is being enhanced with Microsoft Foundry IQ to:
 
-- Knowledge retrieval
-- Grounded AI responses
-- Intelligent exam preparation
-- Context-aware question answering
+- Retrieve trusted study material
+- Generate grounded summaries
+- Create intelligent quizzes
+- Answer student questions with cited knowledge
+
+Future versions will use Azure AI Foundry Knowledge Retrieval for educational content.
 
 ## Future Improvements
 
