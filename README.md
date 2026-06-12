@@ -1,49 +1,49 @@
-# ExamPrep-AI-2026
-## Demo
 
-This project can:
-- Generate summaries
-- Create quizzes
-- Answer questions from study notes
-
-## Technologies Used
-- Python
-- Streamlit
-- OpenAI API
+# ExamPrep AI 2026
 
 ## Overview
-ExamPrep AI is an AI-powered study assistant designed for engineering students.
+ExamPrep AI is an AI-powered study assistant that helps students:
 
-It helps students:
-- Generate summaries from notes
-- Create MCQ quizzes
-- Ask questions from study materials
+- Generate summaries
+- Create quizzes
+- Answer questions from notes
 - Prepare for exams efficiently
 
 ## Features
-- Notes Summarization
-- Quiz Generation
-- Question Answering
-- Important Questions Generator
-- Exam Preparation Support
+
+### Summary Generator
+Creates short summaries from study material.
+
+### Quiz Generator
+Generates multiple-choice questions.
+
+### Question Answering
+Answers questions based on uploaded notes.
 
 ## Technology Stack
 - Python
 - Streamlit
-- Microsoft Foundry IQ
-- GitHub Copilot
+- Microsoft Foundry IQ (planned integration)
 
-## Problem Statement
-Engineering students spend a lot of time searching through large notes and study materials before exams.
+## Project Structure
 
-## Solution
-ExamPrep AI uses artificial intelligence to simplify learning by generating summaries, quizzes, and answers from study content.
+app.py - Main application
+
+summary.py - Summary generation
+
+quiz.py - Quiz generation
+
+qa.py - Question answering
+
+requirements.txt - Dependencies
 
 ## Future Improvements
-- PDF Upload Support
-- Voice Assistant
-- Progress Tracking Dashboard
-- Personalized Study Plans
+
+- Foundry IQ integration
+- PDF upload support
+- Smart exam preparation
+- AI-powered recommendations
 
 ## Author
-Siddi Kiranmayi
+
+Kiranmayi
