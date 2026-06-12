@@ -1,4 +1,4 @@
-# ExamPrep AI 2026
+# ExamPrep-AI-2026
 
 ## Overview
 ExamPrep AI is an AI-powered study assistant that helps students prepare for exams by generating summaries, quizzes, and answers from study materials.
