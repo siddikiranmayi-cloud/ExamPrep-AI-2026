@@ -1,14 +1,17 @@
 
-from summary import generate_summary
-from quiz import generate_quiz
+import streamlit as st
 
-print("ExamPrep AI 2026")
+st.title("ExamPrep AI 2026")
 
-notes = input("Enter notes: ")
+notes = st.text_area("Enter your study notes")
 
-print("\nSummary:")
-print(generate_summary(notes))
+if st.button("Generate Summary"):
+    st.write(notes[:100])
 
-print("\nQuiz:")
-for q in generate_quiz():
-    print(q["question"])
+if st.button("Generate Quiz"):
+    st.write("Q1: What is Artificial Intelligence?")
+
+question = st.text_input("Ask a question")
+
+if st.button("Answer Question"):
+    st.write("Answer feature coming soon")
