@@ -51,15 +51,6 @@ Future versions will use Azure AI Foundry Knowledge Retrieval for educational co
 Demo video will be added before final submission.
 https://youtube.com/shorts/HzJYgBeZ-Ms?si=V7hxiYqgUaaBhJuI
 
-## Screenshots
-
-Home page
-https://improved-spork-w9x4wgg7pjc977q-8502.app.github.dev/
-Summary Generation 
-https://improved-spork-w9x4wgg7pjc977q-8502.app.github.dev/
-Quiz Generation 
-https://improved-spork-w9x4wgg7pjc977q-8502.app.github.dev/
-
 ## Future Improvements
 
 Microsoft Foundry IQ integration
@@ -71,3 +62,7 @@ Advanced AI-powered question answering
 ## Author
 
 Kiranmayi
+
+## License 
+
+MIT License 
