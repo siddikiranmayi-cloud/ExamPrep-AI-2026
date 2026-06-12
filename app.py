@@ -1,12 +1,14 @@
-print("Welcome to ExamPrep AI 2026")
 
-notes = """
-Artificial Intelligence is a branch of computer science.
-It helps machines learn and solve problems.
-"""
+from summary import generate_summary
+from quiz import generate_quiz
 
-print("Summary:")
-print(notes[:100])
+print("ExamPrep AI 2026")
 
-question = input("Ask a question: ")
-print("Answer:", question)
+notes = input("Enter notes: ")
+
+print("\nSummary:")
+print(generate_summary(notes))
+
+print("\nQuiz:")
+for q in generate_quiz():
+    print(q["question"])
