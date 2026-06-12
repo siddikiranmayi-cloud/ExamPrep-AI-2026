@@ -46,17 +46,27 @@ This project is being enhanced with Microsoft Foundry IQ to:
 
 Future versions will use Azure AI Foundry Knowledge Retrieval for educational content.
 
-## Future Improvements
-
-- Foundry IQ integration
-- PDF upload support
-- Study material indexing
-- AI-powered recommendations
-- Multi-subject support
-
 ## Demo
 
 Demo video will be added before final submission.
+https://youtube.com/shorts/HzJYgBeZ-Ms?si=V7hxiYqgUaaBhJuI
+
+## Screenshots
+
+Home page
+https://improved-spork-w9x4wgg7pjc977q-8502.app.github.dev/
+Summary Generation 
+https://improved-spork-w9x4wgg7pjc977q-8502.app.github.dev/
+Quiz Generation 
+https://improved-spork-w9x4wgg7pjc977q-8502.app.github.dev/
+
+## Future Improvements
+
+Microsoft Foundry IQ integration
+PDF upload support
+Smart exam preparation assistant
+Personalized study recommendations
+Advanced AI-powered question answering
 
 ## Author
 
